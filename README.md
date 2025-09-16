@@ -1,6 +1,6 @@
 Hi,
 
-  I’m Prathiksha Rao Mane, an Information Science & Engineering student passionate about building impactful software solutions. I enjoy working with Web & App Development, AI, and Full-Stack Projects, and I’m constantly exploring new technologies to enhance my skills.
+  I’m Prathiksha Rao Mane P, an Information Science & Engineering student passionate about building impactful software solutions. I enjoy working with Web & App Development, AI, and Full-Stack Projects, and I’m constantly exploring new technologies to enhance my skills.
 
 🎓 Pursuing B.E. in Information Science & Engineering
 
@@ -10,8 +10,6 @@ Hi,
 
 Food Rescue Hub (MERN) – Food donation & rescue platform
 Hand Gesture Recognition System – Human-computer interaction project
-
-🌱 Currently learning: AI
 
 🌟 Interests: Problem-Solving, Software Development
 
